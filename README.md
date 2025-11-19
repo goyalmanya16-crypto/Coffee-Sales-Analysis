@@ -17,7 +17,7 @@ This project analyzes coffee sales data to uncover insights into sales trends, c
 * Tableau\
 
 ## Dashboard
-<"C:\Users\YATHARTH\OneDrive\Pictures\Screenshots\Screenshot (29).png"/>
+C:\Users\YATHARTH\OneDrive\Pictures\Screenshots
 
 ## Insights
 * Busiest hour is 10:00 AM
